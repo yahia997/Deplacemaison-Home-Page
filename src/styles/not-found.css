@@ -1,0 +1,13 @@
+.deplace-line-404-p {
+  position: absolute !important;
+  top: 22%;
+  z-index: -1;
+}
+.deplace-line-404 p {
+  font-size: 12vw;
+  font-weight: bold;
+  word-spacing: 1vw;
+}
+.cacet {
+  width: calc(25vw + 50px);
+}
