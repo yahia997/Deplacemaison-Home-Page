@@ -1,9 +1,12 @@
 
-<h1>Déplacé Maison Home page</h1>
-<ul>
-<li>Unique layout.</li>
-<li>Cursor animations.</li>
-<li>Draggable slider.</li>
-<li>Hover effects.</li>
-<li>and more!</li>
-</ul>
+# Déplacé Maison Home page 
+It is a copy for Déplacé Maison Home page which I made by myself,Is contains unique layout, cursor animations, hover effects and more.
+
+### technologies: 
+- HTML
+- CSS
+- Javascript
+- React.js
+
+### Live url
+https://deplacemaison.netlify.app/
